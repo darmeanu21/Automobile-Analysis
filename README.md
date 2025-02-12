@@ -1,4 +1,4 @@
-Automobile Fuel Efficiency Analysis
+Automobile Fuel Efficiency Analysis: 
 This project analyzes key factors that influence automobile fuel efficiency, with a particular focus on highway miles per gallon (MPG). Using statistical models and R programming, the analysis explores how engine size, engine type, and fuel type impact fuel efficiency. The project was a collaborative effort conducted as part of a team of four.
 
 
