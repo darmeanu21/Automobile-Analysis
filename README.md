@@ -11,26 +11,38 @@ Does engine size, engine type, or fuel type significantly affect highway MPG?
 Project Features:
 
 Exploratory Data Analysis (EDA): Analyzed trends and distributions of relevant variables, including engine size and fuel type.
+
 Statistical Modeling: Fit linear models to evaluate the impact of engine and fuel characteristics on highway MPG.
+
 Documentation: Contributed to a comprehensive 26-page report, including a literature review and detailed analysis of modeling choices.
+
 Technologies Used R Programming
 
 
 How to Run the Project:
 
 Clone or download this repository.
+
 Ensure you have R installed (version 4.0 or higher is recommended).
+
+Change to following line of code: 
+
+data <- read.csv("C:/Users/emili/Desktop/imports-85.data", header=FALSE) to wherever imports-85 is store in your computer's memory. 
+
 Run the provided R script or open the R Markdown file to replicate the analysis and visualizations.
 
 
 Deliverables:
 
 Statistical Results: Insight into the relationship between engine/fuel characteristics and highway MPG.
+
 Visualizations: ggplot2-based charts showing trends and model diagnostics.
+
 Final Report: A detailed document summarizing findings, methodology, and conclusions.
 
 
 Contributions:
 
 Independently analyzed the effect of engine size, engine type, and fuel type on highway MPG.
+
 Authored the literature review and a dedicated section explaining the data analysis process and modeling decisions.
